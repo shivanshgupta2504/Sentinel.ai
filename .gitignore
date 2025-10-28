@@ -18,3 +18,9 @@ wheels/
 # db files
 *.db
 chromadb_data
+
+# img_crops
+crops
+
+# environment files
+*.env
