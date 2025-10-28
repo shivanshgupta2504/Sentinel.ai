@@ -42,7 +42,7 @@
     efficient semantic search and retrieval fundamental to the AI's analysis.
 
 ### 4. Computer Vision & Cross-Camera Intelligence
-* **YOLOv8:** A state-of-the-art model used for initial object detection to identify all individuals in a scene.
+* **YOLOv11:** A state-of-the-art model used for initial object detection to identify all individuals in a scene.
 * **Person Re-Identification (Re-ID):** This model assigns a unique, persistent ID to each person, enabling `Sentinel.ai` to track employees across different camera views. This is critical for verifying compliance with multi-step SOPs **and tracking suspicious behavior over time.**
 
 ## Partner Spotlight: Runware.ai
@@ -51,13 +51,11 @@ To accelerate development and ensure robust testing, `Sentinel.ai` partnered wit
 
 * **Controlled Scenario Generation:** We used `runware.ai`'s Text-to-Video and Image-to-Video features to create specific test cases (e.g., "ideal" vs. "failed" SOPs) that would be difficult to film manually.
 * **Targeted Compliance Testing:** This allowed us to generate videos depicting specific SOP failures (e.g., an employee not greeting a customer) **as well as videos depicting suspicious activities (e.g., loitering in a restricted area)** to validate that `Sentinel.ai` correctly flagged the deviation.
-* **Edge Case & Robustness Validation:** We created scenes with varied lighting, camera angles, and crowd densities to test the resilience of our YOLOv8 and Re-ID models.
+* **Edge Case & Robustness Validation:** We created scenes with varied lighting, camera angles, and crowd densities to test the resilience of our YOLOv11 and Re-ID models.
 
 ## Future Roadmap
 
 Our roadmap focuses on expanding analytical depth, architectural scale, and workflow integration.
-
-*(Note: "Real-Time Processing" has been moved from 'Future' to a core feature of the project, as per your update.)*
 
 ### 1. Enhanced AI & Analytical Capabilities
 * **Advanced Behavioral Analysis:** Move beyond procedural checks to analyze more nuanced non-verbal cues like gestures, posture, and gaze patterns. This would allow `Sentinel.ai` to provide deeper insights into the quality of employee-customer interactions.
