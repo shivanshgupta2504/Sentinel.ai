@@ -4,15 +4,13 @@
 
 **Sentinel.ai** is an intelligent monitoring platform that acts as a digital guard for business operations. It leverages AI to automatically analyze work videos in **real-time**, verifying employee compliance with Standard Operating Procedures (SOPs) **and instantly detecting suspicious activities or safety alerts.** This provides a dual benefit: enabling managers to ensure operational consistency while also enhancing site security and immediate incident response.
 
-## How It Works: The Analysis Workflow
+## Team Introduction
 
-1.  **Video Ingestion:** `Sentinel.ai` connects to business video feeds. This can be through **live camera streams** for real-time monitoring or via **video file uploads** for post-event analysis.
-2.  **Environment Setup:** The user selects the relevant "environment"—the specific set of company SOPs and a "threat model" (definitions of suspicious activity) that the AI will use for its analysis.
-3.  **Real-Time AI Processing:** The platform processes the video, applying its computer vision and VLM models to track personnel and analyze actions against the defined rules.
-4.  **Dashboard Review & Alerts:** The user's dashboard displays the analysis. As the video plays (either live or recorded), the AI-generated data is shown in sync:
-    * **Employee Checklists:** Color-coded validation of SOP adherence for each employee.
-    * **Summary & Immediate Alerts:** A high-level performance summary, **with instant pop-up alerts for critical SOP deviations, safety concerns, or suspicious activities.**
-    * **Interactive Timeline:** A dynamic timeline with clickable event markers, allowing managers to instantly jump to key moments for review or coaching.
+1.  **Somya Ranjan Sahoo** - Software Engineer at Confluent
+2.  **Darshan** - Software Engineer at Commvault
+3.  **Shivansh Gupta** - Software Engineer at Boeing
+
+**Fun Fact** - We all are from same college.
 
 ## Architecture
 
@@ -73,3 +71,5 @@ Our roadmap focuses on expanding analytical depth, architectural scale, and work
 ### 4. Ethical AI & Privacy Enhancements
 * **Advanced Privacy-Preserving Features:** Implement state-of-the-art anonymization techniques, such as automatic blurring or masking of faces and other personally identifiable information (PII), to further protect the privacy of both employees and customers.
 * **Bias Auditing and Mitigation Tools:** Develop a dedicated module for regularly auditing the AI models for algorithmic bias. This will help ensure that evaluations remain fair and equitable across all demographics.
+
+[Sample Videos](https://drive.google.com/drive/folders/10TubcKfi1VbarbheSj9ax1XIuVSduZ5P?usp=sharing)
