@@ -1,4 +1,7 @@
-[Demo Video Link](https://youtu.be/HYRcnFU8ahM)
+Video Link : https://youtu.be/HYRcnFU8ahM
+
+Demo App : [sentinel-ai-123.netlify.app.com
+](http://sentinel-ai-123.netlify.app.com/)
 
 # Sentinel.ai: AI-Powered Operational Compliance & Security
 
