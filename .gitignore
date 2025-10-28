@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# test notebooks
+*.ipynb
+
+# log files
+*.log
+
+# db files
+*.db
+chromadb_data
